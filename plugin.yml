@@ -1,0 +1,4 @@
+name: Arcade
+main: org.jbltd.arcade.core.Main
+version: 0.1
+author: SparkWings
